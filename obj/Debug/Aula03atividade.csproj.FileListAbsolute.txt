@@ -1,0 +1,7 @@
+C:\Users\kethely.cntoledo\source\repos\Aula03atividade\Aula03atividade\bin\Debug\Aula03atividade.exe.config
+C:\Users\kethely.cntoledo\source\repos\Aula03atividade\Aula03atividade\bin\Debug\Aula03atividade.exe
+C:\Users\kethely.cntoledo\source\repos\Aula03atividade\Aula03atividade\bin\Debug\Aula03atividade.pdb
+C:\Users\kethely.cntoledo\source\repos\Aula03atividade\Aula03atividade\obj\Debug\Aula03atividade.csproj.AssemblyReference.cache
+C:\Users\kethely.cntoledo\source\repos\Aula03atividade\Aula03atividade\obj\Debug\Aula03atividade.csproj.CoreCompileInputs.cache
+C:\Users\kethely.cntoledo\source\repos\Aula03atividade\Aula03atividade\obj\Debug\Aula03atividade.exe
+C:\Users\kethely.cntoledo\source\repos\Aula03atividade\Aula03atividade\obj\Debug\Aula03atividade.pdb
